@@ -1,0 +1,7 @@
+com\concretepage\dao\IArticleDAO.class
+com\concretepage\dao\ArticleDAO.class
+com\concretepage\entity\Article.class
+com\concretepage\controller\ArticleController.class
+com\concretepage\service\ArticleService.class
+com\concretepage\ConcretepageApplication.class
+com\concretepage\service\IArticleService.class
